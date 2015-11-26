@@ -5,7 +5,7 @@ http://forum.arduino.cc/index.php?topic=227435.msg2466463#msg2466463
 
 For Arduino Esplora, use the following pinout:
 
-Esplora|     | WT588D |
+Esplora|     | WT588D |   |
 -----|:-----:|:--:|--
 *Name* | *Header* | *ICSP*| *pin*
 MISO | 9     | 1  | 6 DO
