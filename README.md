@@ -1,3 +1,9 @@
+*Before you try this, you should know I could not get this to work.  
+The Arduino sketch would fail when erasing the chip and print ERROR on the serial port.  
+The voltage measured on VCC (pin 14) of the WT588D is suspiciously low (1.8V).  
+And my time allotted for this project is expired.  If anyone out there gets this to work, 
+I'd love to hear the details.*
+
 
 Based on code from purgedsoul, published here:
 
